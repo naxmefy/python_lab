@@ -39,3 +39,4 @@ here i play and test several cases implemented in python.
 - [ ] 00034_quixote
 - [ ] 00035_blockchain
 - [ ] 00036_fastapi
+- [ ] 00037_pipenv
