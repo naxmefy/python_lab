@@ -1,4 +1,4 @@
-# py_lab
+# Python Lab
 
 this is my py_lab repo.
 here i play and test several cases implemented in python.
