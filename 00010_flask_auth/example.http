@@ -1,0 +1,16 @@
+GET http://localhost:5000/basic_auth
+# Authorization: Basic am9objptcmRvZQ==
+
+###
+
+POST http://localhost:5000/get_token
+Content-Type: application/json
+
+{
+    "username": "john",
+    "password": "mrdoe"
+}
+
+###
+
+GET http://localhost:5000/token_secured
